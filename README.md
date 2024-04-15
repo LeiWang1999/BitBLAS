@@ -1,3 +1,7 @@
+# Project Migration Notice ！！！！！
+
+**This project has been migrated to a new location. Please visit https://github.com/microsoft/BitBLAS for the latest updates and information.**
+
 # BitBLAS
 
 BitBLAS is a library to support mixed-precision BLAS operations on GPUs, for example, the $W_{wdtype}A_{adtype}$ mixed-precision matrix multiplication where $C_{cdtype}[M, N] = A_{adtype}[M, K] \times W_{wdtype}[N, K]$.
